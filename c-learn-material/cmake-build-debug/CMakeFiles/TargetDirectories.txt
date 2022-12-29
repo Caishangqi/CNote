@@ -1,0 +1,3 @@
+O:/H/CDevelop/c-learn-material/cmake-build-debug/CMakeFiles/c_learn_material.dir
+O:/H/CDevelop/c-learn-material/cmake-build-debug/CMakeFiles/edit_cache.dir
+O:/H/CDevelop/c-learn-material/cmake-build-debug/CMakeFiles/rebuild_cache.dir
