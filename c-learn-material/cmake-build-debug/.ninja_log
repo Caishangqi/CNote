@@ -1,0 +1,6 @@
+# ninja log v5
+3	774	6849150756425347	CMakeFiles/c_learn_material.dir/main.cpp.obj	47bb84a6342ae373
+375	478	6849164185051008	c_learn_material.exe	aeccb114b97ab44
+1	964	6933856872384074	build.ninja	6a912cd6c558bba5
+87	195	6846092341733914	variable_constant.exe	bd802041b3e6d1f1
+3	374	6849164184031290	CMakeFiles/c_learn_material.dir/pointer/PointerTest.cpp.obj	40e0db0ce16df17
