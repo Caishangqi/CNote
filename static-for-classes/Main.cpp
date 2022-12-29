@@ -35,7 +35,7 @@ int main() {
 	e1.x = 5;
 	e1.y = 8;
 
-	//可以写成
+	//可以写成 - 直接设置类里面的static变量会改变所有 Entity类的x,y值
 	Entity::x = 5;
 	Entity::y = 8;
 
