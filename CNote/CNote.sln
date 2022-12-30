@@ -73,7 +73,9 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "workbench-for-testing", "..
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "48-local-static", "..\local-static\local-static.vcxproj", "{DD3398D7-F228-4481-BA93-FF59333E640C}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "libraries-static-linking", "..\libraries-static-linking\libraries-static-linking.vcxproj", "{81380052-9379-4884-B532-7518F8665932}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "49-libraries-static-linking", "..\libraries-static-linking\libraries-static-linking.vcxproj", "{81380052-9379-4884-B532-7518F8665932}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "libraries-dynamic", "..\libraries-dynamic\libraries-dynamic.vcxproj", "{41F5C3CB-590F-4AE8-8D3F-0F65A2522F20}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -371,6 +373,14 @@ Global
 		{81380052-9379-4884-B532-7518F8665932}.Release|x64.Build.0 = Release|x64
 		{81380052-9379-4884-B532-7518F8665932}.Release|x86.ActiveCfg = Release|Win32
 		{81380052-9379-4884-B532-7518F8665932}.Release|x86.Build.0 = Release|Win32
+		{41F5C3CB-590F-4AE8-8D3F-0F65A2522F20}.Debug|x64.ActiveCfg = Debug|x64
+		{41F5C3CB-590F-4AE8-8D3F-0F65A2522F20}.Debug|x64.Build.0 = Debug|x64
+		{41F5C3CB-590F-4AE8-8D3F-0F65A2522F20}.Debug|x86.ActiveCfg = Debug|Win32
+		{41F5C3CB-590F-4AE8-8D3F-0F65A2522F20}.Debug|x86.Build.0 = Debug|Win32
+		{41F5C3CB-590F-4AE8-8D3F-0F65A2522F20}.Release|x64.ActiveCfg = Release|x64
+		{41F5C3CB-590F-4AE8-8D3F-0F65A2522F20}.Release|x64.Build.0 = Release|x64
+		{41F5C3CB-590F-4AE8-8D3F-0F65A2522F20}.Release|x86.ActiveCfg = Release|Win32
+		{41F5C3CB-590F-4AE8-8D3F-0F65A2522F20}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
