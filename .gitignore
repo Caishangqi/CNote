@@ -365,3 +365,4 @@ MigrationBackup/
 FodyWeavers.xsd
 /.idea
 /libraries-dynamic/Dependencies/GLFW
+/CNote/enc_temp_folder
