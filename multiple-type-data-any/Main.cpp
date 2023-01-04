@@ -11,6 +11,7 @@ int main(int argc, char* argv[])
 	 * or else, it would use NEW key word to dynamically
 	 * allocate enough memory on heap.
 	 */
+
 	std::any data;
 	data = 2;
 	data = "Cherno";
@@ -19,4 +20,5 @@ int main(int argc, char* argv[])
 	std::string& result = std::any_cast<std::string&>(data);
 
 	std::cin.get();
+
 }
