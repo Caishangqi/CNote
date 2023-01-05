@@ -4,7 +4,6 @@
 class String
 {
 public:
-
 	String(const char* string)
 	{
 		m_Size = strlen(string);
@@ -32,7 +31,7 @@ public:
 	 * you can disable this copy constructor
 	 */
 	String(const String& other)
-	/* do the deep copy*/:m_Size(other.m_Size)
+	/* do the deep copy*/: m_Size(other.m_Size)
 	{
 		m_Buffer = new char[m_Size + 1];
 		memcpy(m_Buffer, other.m_Buffer, m_Size + 1);
@@ -49,7 +48,7 @@ std::ostream& operator<<(std::ostream& stream, const String& string)
 	return stream;
 }
 
-int main(int argc, char* argv[])
+int mainF(int argc, char* argv[])
 {
 	String string = "Caizii";
 	/* assign to another string
@@ -62,4 +61,6 @@ int main(int argc, char* argv[])
 	std::cout << string << std::endl;
 	std::cout << second << std::endl;
 	std::cin.get();
+
+	return 1;
 }

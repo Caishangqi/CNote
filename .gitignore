@@ -366,5 +366,5 @@ FodyWeavers.xsd
 /.idea
 /libraries-dynamic/Dependencies/GLFW
 /CNote/enc_temp_folder
-/44-copy-constructors/44-copy-constructors.vcxproj
-/44-copy-constructors/44-copy-constructors.vcxproj.filters
+.vcxproj
+.vcxproj.filters
