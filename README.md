@@ -20,5 +20,7 @@
 - 以上代码参考 Youtube 博主 [**The Cherno**](https://www.youtube.com/@TheCherno) 的视频合集 [**C++**](https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb) , 部分注解和理解由项目创建者编写，或许有偏差。欢迎矫正 ~
 
 - 以上代码片段参考了由作者 	[**Frank Vahid**](https://www.zybooks.com/authoring-team/) 编写的 zyBooks: Beginning Programming Methodologies in C++ 
+
+- 以上代码参考作者 咸鱼暄 编写的C++自举 [**总结**](https://xuan-insr.github.io/cpp/)
 ## 相对失败的一生 Failure
 在该文档中有一些无法编译的文件，因为使用了过时也就是旧的C++ (11)库并且没有进行修改。
