@@ -17,7 +17,8 @@
 基于 C++ 14 的知识合集，主要面向游戏开发所使用的知识点。相比于其他文档，该文档提供C++特性的使用说明和解释包括为什么以及什么时候使用，更偏向底层原理。对于未接触编程学者而言不是一篇十分适用的教程。
 
 ## 来源 Source
-以上代码参考 Youtube 博主 [**The Cherno**](https://www.youtube.com/@TheCherno) 的视频合集 [**C++**](https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb) , 部分注解和理解由项目创建者编写，或许有偏差。欢迎矫正 ~
+- 以上代码参考 Youtube 博主 [**The Cherno**](https://www.youtube.com/@TheCherno) 的视频合集 [**C++**](https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb) , 部分注解和理解由项目创建者编写，或许有偏差。欢迎矫正 ~
 
+- 以上代码片段参考了由作者 	[**Frank Vahid**](https://www.zybooks.com/authoring-team/) 编写的 zyBooks: Beginning Programming Methodologies in C++ 
 ## 相对失败的一生 Failure
-在该文档中有一些无法编译的文件，因为使用了过时也就是旧的C++库并且没有进行修改。
+在该文档中有一些无法编译的文件，因为使用了过时也就是旧的C++ (11)库并且没有进行修改。
