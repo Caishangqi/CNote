@@ -2,7 +2,7 @@
 #include  "Complex.h"
 #include "ComplexEntity.h"
 
-int main(int argc, char* argv[])
+int mainF(int argc, char* argv[])
 {
 	/* 简单对象的拷贝 对象里没有嵌套对象或者指针*/
 	Complex c1 = {1, 2};
@@ -27,4 +27,6 @@ int main(int argc, char* argv[])
 	std::cout << ce2.internalData->real << std::endl;
 
 	std::cin.get();
+
+	return  0;
 }

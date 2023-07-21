@@ -12,7 +12,7 @@ int main(int argc, char* argv[])
     std::ofstream fileOut;
     std::string content;
 
-    /*
+    /* 
      * by default ios::out mode, automatically deletes
      * the content of file. To append the content, open in ios:app
      * fout.open("sample.txt", ios::app)
